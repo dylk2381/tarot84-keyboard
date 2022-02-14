@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "keebs")(type "KiCad")(uri "C:/Users/crunc/Pictures/Keyboard/PCB/keebs.pretty-master")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "KiCad")(uri "C:/Users/crunc/Pictures/Keyboard/PCB/keyboard_parts.pretty-master")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "C:/Users/crunc/Pictures/Keyboard/PCB/random-keyboard-parts.pretty-master")(options "")(descr ""))
+  (lib (name "MX_Only")(type "KiCad")(uri "C:/Users/crunc/Pictures/Keyboard/PCB/MX_Alps_Hybrid-master/MX_Only.pretty")(options "")(descr ""))
+)
