@@ -25,6 +25,14 @@ NOTE: All of the components on this list are just what I have found, they should
  - 1x RS-187R05A2-DS MT RT Switch
  - 1x SM04B-SRSS-TB(LF)(SN) 4 Pin Connector
 
+## Required Libraries
+https://github.com/ai03-2725/MX_Alps_Hybrid
+https://github.com/egladman/keebs.pretty
+https://github.com/tmk/keyboard_parts.pretty
+https://github.com/ai03-2725/Unified-Daughterboard
+https://github.com/ai03-2725/random-keyboard-parts.pretty
+https://github.com/tmk/kicad_lib_tmk
+
 ## Assembly
 I believe everything on this board *should* be able to be hand soldered, albeit designed with just ordering assembly online in mind. If you are assembling, I would strongly recommend not relying entirely on the silkscreening.
 
